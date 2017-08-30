@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox
+        android:id="@+id/checkbox1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="한식"/>
+
+    <CheckBox
+        android:id="@+id/checkbox2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="중식"/>
+
+    <CheckBox
+        android:id="@+id/checkbox3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="스넥"/>
+
+    <CheckBox
+        android:id="@+id/checkbox4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="일식"/>
+
+    <CheckBox
+        android:id="@+id/checkbox5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="아시아 음식"/>
+
+    <Button
+        android:id="@+id/checkbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="random pick"
+        />
+
+    <Button
+        android:id="@+id/clearbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="remove all"
+        />
+    <TextView
+        android:id="@+id/checktext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        />
+    <Button
+        android:id="@+id/savebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="menu save"
+        />
+    <Button
+        android:id="@+id/getbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="menu get"
+        />
+    <Button
+        android:id="@+id/removebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="menu remove"
+        />
+    <TextView
+        android:id="@+id/savetext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        />
+    <EditText
+        android:id="@+id/edituser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        />
+    <Button
+    android:id="@+id/editcheck"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="save"
+    />
+
+</LinearLayout>

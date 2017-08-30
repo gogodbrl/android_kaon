@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android_test2</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+	<string name="btn1">button1</string>
+	<string name="btn2">button2</string>
+	
+	<string name="btn3">button3</string>
+	
+	<string name="sub_activity">sub_activity</string>
+
+
+	<string name="json_file">
+		"[
+		{'name':'팔선','type':'china','distince': 300, 'menu' : '짜장면' },
+		{'name':'팔선','type':'china','distince': 300, 'menu' : '짬뽕' },
+		{'name':'팔선','type':'china','distince': 300, 'menu' : '짜장밥' },
+		{'name':'팔선','type':'china','distince': 300, 'menu' : '짬뽕밥' },
+		{'name':'홍콩반점','type':'china','distince': 500, 'menu' : '짜장면'},
+		{'name':'홍콩반점','type':'china','distince': 500, 'menu' : '짜장밥'},
+		{'name':'홍콩반점','type':'china','distince': 500, 'menu' : '짬뽕'},
+		{'name':'홍콩반점','type':'china','distince': 500, 'menu' : '짬뽕밥'},
+		{'name':'홍콩반점','type':'china','distince': 500, 'menu' : '볶음짬뽕'},
+		{'name':'홍콩반점','type':'china','distince': 500, 'menu' : '군만두 한접시'},
+		{'name':'홍콩반점','type':'china','distince': 500, 'menu' : '차가면'},
+		{'name':'홍콩반점','type':'china','distince': 500, 'menu' : '냉짬뽕'},
+		{'name':'포몬스','type':'asia','distince': 200, 'menu' : '하노이국밥'},
+		{'name':'포몬스','type':'asia','distince': 200, 'menu' : 'P5'},
+		{'name':'김밥마을','type':'snack','distince': 400, 'menu' : '찌개류'},
+		{'name':'김밥마을','type':'snack','distince': 400, 'menu' : '라면류'},
+		{'name':'김밥마을','type':'snack','distince': 400, 'menu' : '조림류'},
+		{'name':'김밥마을','type':'snack','distince': 400, 'menu' : '라면류'},
+		{'name':'김밥마을','type':'snack','distince': 400, 'menu' : '김밥류'},
+		{'name':'김밥마을','type':'snack','distince': 400, 'menu' : '면류'},
+		{'name':'김밥마을','type':'snack','distince': 400, 'menu' : '덮밥류'},
+		{'name':'김밥마을','type':'snack','distince': 400, 'menu' : '돈까스류'},
+        {'name':'엄마손김밥','type':'snack','distince': 400, 'menu' : '찌개류'},
+        {'name':'영심이떡볶이','type':'snack','distince': 400, 'menu' : '찌개류'},
+        {'name':'신주꾸 마쯔야','type':'japan','distince': 400, 'menu' : '일식'},
+        {'name':'하하데카츠','type':'japan','distince': 400, 'menu' : '일식'},
+        {'name':'금송한우갈비','type':'korea','distince': 400, 'menu' : '1'},
+        {'name':'맛깔참죽','type':'korea','distince': 400, 'menu' : '1'},
+        {'name':'명품가마','type':'korea','distince': 400, 'menu' : '1'},
+        {'name':'무궁화생고기','type':'korea','distince': 400, 'menu' : '1'},
+        {'name':'사계절엄마집밥','type':'korea','distince': 400, 'menu' : '1'},
+		]"
+	</string>
+</resources>
